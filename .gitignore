@@ -1,0 +1,11 @@
+# Unrelated assignment folders
+Assignment3/
+linux_automation/
+python_automation/
+Assignment2_Submission.zip
+prd-logbook.html
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
